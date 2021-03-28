@@ -171,7 +171,7 @@ header .header-2.header-active{
     position: absolute;
     bottom:-.5rem; left: 0;
     height: 13rem;
-    background:url(../images/shape-bottom.png);
+    background:url(images/shape-bottom.png);
     background-size: 350rem 13rem;
     width: 100%;
     animation: animate 25s linear infinite;
